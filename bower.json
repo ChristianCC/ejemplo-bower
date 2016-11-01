@@ -1,0 +1,22 @@
+{
+  "name": "paquete",
+  "authors": [
+    "ChristianCC <christiandanielcm@gmail.com>"
+  ],
+  "description": "Paquete de ejemplo",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "WebNotificationsWrapper": "https://github.com/jmalarcon/WebNotificationsWrapper.git",
+    "modernizr": "^3.3.1",
+    "jquery-ui": ">1.10"
+  }
+}
